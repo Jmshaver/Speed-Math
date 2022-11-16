@@ -1,0 +1,17 @@
+export const descriptions ={
+  '/complement': {'/easy': "This has you compute the complement of a number with 100",
+    '/medium': "This has you comput the complement of a number with 1000",
+    '/hard': "This has you compute the complement of a number with 10000"},
+    '/addition': {'/easy':"These are simple two digit addition problems that don't require carrying digits",
+    '/medium':"These are harder addition problems that have have you add two two digit numbers",
+    '/hard':"These are quite hard additon problem that are two three digit numbers"},
+    '/multiplication':{'/easy':"This is your basic times tables so two numbers 1-10",
+    '/medium':"This is two numbers 2-20 and will challenge you more than easy",
+    '/hard':"This is the most challenging and is multiplication between two numbers 10-40"},
+    '/subtraction':{'/easy':"These problems are simple two digit number subtraction that doesn't have any carrying",
+    '/medium':"These problems are subraction of two digit numbers with carrying ",
+    '/hard': "These are three digit subtraction problems"},
+    '/division':{'/easy':"The answers for these division problems are 1-9",
+    '/medium':"This can be as hard as a 3 digit number divided by a single digit",
+    '/hard':"This is a division with answer 2-40 and a divisor 2-40"},
+}
