@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jmshaver.github.io/Speed-Math/static/css/main.fd6ae4b3.css",
-    "main.js": "/jmshaver.github.io/Speed-Math/static/js/main.95b1d3ca.js",
-    "static/js/787.e23ade50.chunk.js": "/jmshaver.github.io/Speed-Math/static/js/787.e23ade50.chunk.js",
-    "index.html": "/jmshaver.github.io/Speed-Math/index.html",
-    "main.fd6ae4b3.css.map": "/jmshaver.github.io/Speed-Math/static/css/main.fd6ae4b3.css.map",
-    "main.95b1d3ca.js.map": "/jmshaver.github.io/Speed-Math/static/js/main.95b1d3ca.js.map",
-    "787.e23ade50.chunk.js.map": "/jmshaver.github.io/Speed-Math/static/js/787.e23ade50.chunk.js.map"
+    "main.css": "/Speed-Math/static/css/main.fd6ae4b3.css",
+    "main.js": "/Speed-Math/static/js/main.0b905584.js",
+    "static/js/787.e23ade50.chunk.js": "/Speed-Math/static/js/787.e23ade50.chunk.js",
+    "index.html": "/Speed-Math/index.html",
+    "main.fd6ae4b3.css.map": "/Speed-Math/static/css/main.fd6ae4b3.css.map",
+    "main.0b905584.js.map": "/Speed-Math/static/js/main.0b905584.js.map",
+    "787.e23ade50.chunk.js.map": "/Speed-Math/static/js/787.e23ade50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd6ae4b3.css",
-    "static/js/main.95b1d3ca.js"
+    "static/js/main.0b905584.js"
   ]
 }
