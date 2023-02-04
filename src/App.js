@@ -8,6 +8,7 @@ import NotFound from "./pages/NotFound";
 import ValidPage from "./components/ValidPage";
 import { ResultsPage } from "./pages/ResultsPage";
 import { descriptions } from "./utils/descriptions";
+import AdditionPage from "./pages/Tutorials/AdditionPage";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <Route index element={<HomePage/>} />
           <Route path="*" element={<NotFound/>} />
           <Route path="R" element={<ResultsPage />} />
+          <Route path="t" element={<AdditionPage/>}/>
           <Route path="Complement">
             <Route index element={<DifficultyPage descriptions={descriptions["/complement"]} />} />
             <Route path=":difficulty" element={<ValidPage> <MathPage/> </ValidPage>}/>
